@@ -1,4 +1,4 @@
--### **1.1. TLDR**
+### **1.1. TLDR**
 -
 - **Dashboard**:
   - Google Data Studio ([link](https://lookerstudio.google.com/reporting/33ff63e8-4724-48df-b93b-59c6dbbc824a)).
