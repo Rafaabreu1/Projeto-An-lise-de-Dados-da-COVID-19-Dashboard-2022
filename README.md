@@ -1,4 +1,4 @@
-### **1.1. TLDR**
+### **TLDR**
 - **Dashboard**:
   - Google Data Studio ([link](https://lookerstudio.google.com/reporting/33ff63e8-4724-48df-b93b-59c6dbbc824a)).
  - **Processamento**:
@@ -48,7 +48,7 @@ Progresso da vacinação diária por país.
 Ajustes e refinamento para garantir que os insights fossem apresentados de forma clara e objetiva.
   
 
-  - ## Resultado
+  - ## Resultados
 Total de 480.332.769 doses de vacinas aplicadas no Brasil em 2022, incluindo primeira, segunda e terceira doses.
 
 Análise detalhada do número de casos confirmados e óbitos por dia, permitindo acompanhar a evolução da pandemia.
@@ -61,7 +61,43 @@ Cálculo da média móvel de mortes e casos a cada sete dias, representado em gr
 
     ## Próximos passos
 
-    ## Como executar
+   Para aprimorar o projeto e torná-lo ainda mais informativo, os próximos passos incluem:
+
+Implementar a opção de análise por diferentes períodos (semanal, mensal e trimestral), permitindo uma visão mais ampla das tendências ao longo do tempo.
+
+Adicionar filtros para seleção de regiões (Ex.: Norte, Sul, Sudeste), possibilitando uma análise comparativa entre diferentes localidades.
+
+Aprimorar a visualização dos dados, tornando o dashboard mais dinâmico e interativo para facilitar a extração de insights estratégicos.
+
+    ## Como executar 
+Clonar o Repositório
+Acesse o repositório no GitHub e copie o link.
+
+Executar o Código no Google Colab ou VS Code
+
+Abra o Google Colab ou um ambiente local como VS Code.
+
+Caso utilize o Google Colab, faça o upload dos arquivos necessários ou acesse diretamente pelo GitHub.
+
+Execute todas as células do notebook para processar os dados e gerar as tabelas.
+
+ Configurar o Dashboard no Looker Studio
+ 
+Acesse o Looker Studio.
+
+Importe o arquivo CSV gerado pelo código.
+
+Configure os gráficos e filtros conforme necessário para explorar os dados interativamente.
+
+4 Explorar os Dados
+
+Analise tendências, como número de casos confirmados, mortes e vacinação ao longo do tempo.
+
+Utilize os filtros para visualizar os dados por períodos e regiões.
+
+Esse processo garantirá que você consiga reproduzir as análises e interagir com os dados no dashboard de forma eficiente. 🚀
+    
 
     ## Licença
-  - 
+    
+  - MIT License
