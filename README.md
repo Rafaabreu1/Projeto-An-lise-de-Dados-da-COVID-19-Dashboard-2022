@@ -59,7 +59,7 @@ Identificação de tendências, como estabilidade, aumento ou queda nos casos e 
 
 Cálculo da média móvel de mortes e casos a cada sete dias, representado em gráficos que mostram a curva de evolução desses indicadores.
 
-    ## Próximos passos
+ ## Próximos passos
 
    Para aprimorar o projeto e torná-lo ainda mais informativo, os próximos passos incluem:
 
@@ -69,7 +69,7 @@ Adicionar filtros para seleção de regiões (Ex.: Norte, Sul, Sudeste), possibi
 
 Aprimorar a visualização dos dados, tornando o dashboard mais dinâmico e interativo para facilitar a extração de insights estratégicos.
 
-    ## Como executar 
+## Como executar 
 Clonar o Repositório
 Acesse o repositório no GitHub e copie o link.
 
