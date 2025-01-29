@@ -89,7 +89,7 @@ Importe o arquivo CSV gerado pelo código.
 
 Configure os gráficos e filtros conforme necessário para explorar os dados interativamente.
 
-4 Explorar os Dados
+ Explorar os Dados
 
 Analise tendências, como número de casos confirmados, mortes e vacinação ao longo do tempo.
 
@@ -98,6 +98,6 @@ Utilize os filtros para visualizar os dados por períodos e regiões.
 Esse processo garantirá que você consiga reproduzir as análises e interagir com os dados no dashboard de forma eficiente. 🚀
     
 
-    ## Licença
+  ## Licença
     
   - MIT License
