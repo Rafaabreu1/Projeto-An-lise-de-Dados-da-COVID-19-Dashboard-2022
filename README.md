@@ -21,7 +21,7 @@
   - Jupyter
   - python (Math, Typing, Datetime, Numpy, Pandas)
   - BI (Looker studio)
-  - 
+    
   - ## Metodologia
   ETL (Extração, Transformação e Carregamento de Dados)
  Extração:
