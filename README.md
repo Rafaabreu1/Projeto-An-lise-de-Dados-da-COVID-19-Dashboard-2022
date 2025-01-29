@@ -18,12 +18,35 @@
 
    
   - ## Tecnologias utilizadas
-
+  - Jupyter
+  - python (Math, Typing, Datetime, Numpy, Pandas)
+  - BI (Looker studio)
+  - 
   - ## Metodologia
-  - extração de dados
-  - transformação dos dados
-  - carregamento
-  - dashboard
+  ETL (Extração, Transformação e Carregamento de Dados)
+ Extração:
+
+Os dados de casos confirmados e óbitos foram coletados do repositório do GitHub CSSEGISandData/COVID-19.
+Os dados de vacinação foram extraídos do dataset do Kaggle (Our World in Data).
+
+Transformação:
+
+Utilização de bibliotecas como Pandas, NumPy, Datetime e Typing para processar os dados.
+Filtragem e organização das colunas para manter apenas as informações relevantes.
+Padronização dos formatos de data e remoção de dados irrelevantes  nos datasets.
+Carregamento:
+
+Os dados transformados foram salvos em formato CSV para facilitar a importação e visualização no Looker Studio.
+
+ Construção do Dashboard
+
+Importação dos dados no Looker Studio para criação de visualizações dinâmicas.
+Desenvolvimento de gráficos interativos, incluindo:
+Evolução diária dos casos confirmados.
+Número de mortes ao longo do tempo.
+Progresso da vacinação diária por país.
+Ajustes e refinamento para garantir que os insights fossem apresentados de forma clara e objetiva.
+  
 
   - ## Resultado
 
