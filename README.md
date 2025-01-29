@@ -26,8 +26,8 @@
   ETL (Extração, Transformação e Carregamento de Dados)
  Extração:
 
-Os dados de casos confirmados e óbitos foram coletados do repositório do GitHub CSSEGISandData/COVID-19.
-Os dados de vacinação foram extraídos do dataset do Kaggle (Our World in Data).
+Os dados de casos confirmados e óbitos foram coletados do repositório do GitHub ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)).
+Os dados de vacinação foram extraídos do dataset do Kaggle ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)).
 
 Transformação:
 
@@ -49,6 +49,15 @@ Ajustes e refinamento para garantir que os insights fossem apresentados de forma
   
 
   - ## Resultado
+Total de 480.332.769 doses de vacinas aplicadas no Brasil em 2022, incluindo primeira, segunda e terceira doses.
+
+Análise detalhada do número de casos confirmados e óbitos por dia, permitindo acompanhar a evolução da pandemia.
+
+Cálculo da porcentagem da população vacinada ao longo do tempo, demonstrando o impacto da vacinação.
+
+Identificação de tendências, como estabilidade, aumento ou queda nos casos e óbitos ao longo dos meses.
+
+Cálculo da média móvel de mortes e casos a cada sete dias, representado em gráficos que mostram a curva de evolução desses indicadores.
 
     ## Próximos passos
 
